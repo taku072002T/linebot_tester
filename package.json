@@ -1,6 +1,6 @@
 {
   "name": "linebot_tester",
-  "type": "module"
+  "type": "module",
   "version": "1.0.0",
   "description": "青子出すぞという意思を込めて作りました。ぜひお召し上がりください",
   "main": "index.js",
