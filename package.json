@@ -1,0 +1,17 @@
+{
+  "name": "linebot_tester",
+  "type": "module"
+  "version": "1.0.0",
+  "description": "青子出すぞという意思を込めて作りました。ぜひお召し上がりください",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@line/bot-sdk": "^9.2.1",
+    "express": "^4.19.2"
+  }
+}
