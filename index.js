@@ -24,8 +24,3 @@ function handleEvent(event) {
     text: event.message.text,
   });
 }
-if (event.type !== "message" || event.message.type !== "text") {
-    return Promise.resolve(null);
-  }
-
-
